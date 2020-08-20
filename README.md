@@ -1,4 +1,5 @@
-### Hi there 👋
+### Android Developer
+🌱 I’m currently learning Coroutine, Hilt, JetPack
 
 <!--
 **greedy0110/greedy0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
