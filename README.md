@@ -4,16 +4,16 @@
 
 안드로이드 개발을 하고 있지만 소프트웨어 전반적으로 관심이 있습니다. (관련된 이야기 하는 것은 언제나 환영입니다 :))
 
-[기술 블로그](https://greedy0110.tistory.com/)에 제가 프로젝트를 하며 정리한 내용 정리도 하고있습니다.
+[기술 블로그](https://greedy0110.tistory.com/)도 운영하고 있습니다.
 
 ### 🔭 I’m currently working on
 Architecture: `MVVM`, `MVP`
 
-Language: `Kotlin`
+Language: `Kotlin`, `C++`
 
-Skills: `RxJava`, `Retrofit`, `Dagger`, `Git`, `Room`, `Paging`
+Skills: `RxJava`, `Retrofit`, `Dagger`, `Hilt`, `Git`, `Room`, `Paging`
 
-Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork` 
+Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`
 
 ### 📫 How to reach me
 email: greedy0110@gmail.com
