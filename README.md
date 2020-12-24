@@ -13,7 +13,13 @@ Language: `Kotlin`, `C++`
 
 Skills: `RxJava`, `Retrofit`, `Dagger`, `Hilt`, `Git`, `Room`, `Paging`
 
-Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`
+Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`, `Slack`
+
+### I'm studying
+
+Language: `Swift`
+
+Skills: `Coroutine`, `LiveData`, `Flow`, `Data Source`
 
 ### 📫 How to reach me
 email: greedy0110@gmail.com
