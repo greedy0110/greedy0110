@@ -1,9 +1,10 @@
 # Android Developer
 
 Greetings, I'm a Android Developer, shin seungmin.
+
 I love ❤️ software development, working out and reading books about philosophy. ❤️ 
 
-And I'm also interested in whole software industry. (It's always welcome to talk about it. :))
+And I'm also interested in whole software industry. (I always welcome to talk about it. :))
 
 I'm making a tech blog 👉 https://greedy0110.tistory.com/
 
