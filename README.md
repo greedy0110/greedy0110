@@ -9,7 +9,7 @@ And I'm also interested in whole software industry. (I always welcome to talk ab
 I'm making a tech blog 👉 https://greedy0110.tistory.com/
 
 
-### 🔭 I’m currently working on
+### 🔭 I’m currently working on with
 Architecture: `MVVM`, `MVP`
 
 Language: `Kotlin`, `C++`
@@ -18,7 +18,7 @@ Skills: `RxJava`, `Retrofit`, `Dagger`, `Hilt`, `Git`, `Room`, `Paging`
 
 Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`, `Slack`
 
-### I'm studying
+### 🌱 I’m currently learning ...
 
 Skills: `Coroutine`, `LiveData`, `Flow`, `Data Source`
 
