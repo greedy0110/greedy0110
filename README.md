@@ -5,10 +5,10 @@ Experienced Android Native Developer. Skilled in Kotlin, Java, C#, C++ and Andro
 blog : https://greedy0110.tistory.com/ 
 
 ### 🔭 I’m currently working on
-Architecture: `MVVM`, `MVP`
-Language: `Kotlin`, `Java`, `C++`
-Skills: `RxJava`, `Retrofit`, `Dagger`, `Hilt`, `Git`, `Room`, `Paging`
-Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`, `Slack`
+- Architecture: `MVVM`, `MVP`
+- Language: `Kotlin`, `Java`, `C++`
+- Skills: `RxJava`, `Retrofit`, `Dagger`, `Hilt`, `Git`, `Room`, `Paging`
+- Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`, `Slack`
 
 ### 📫 How to reach me
 email: seungminshin.career@gmail.com
