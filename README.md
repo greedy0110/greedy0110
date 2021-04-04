@@ -11,10 +11,10 @@ blog : https://greedy0110.tistory.com/
 - Tools: `Android Studio`, `Github`, `Notion`, `Jira`, `Fork`, `Vim`, `Slack`
 
 ### 📫 How to reach me
-email: seungminshin.career@gmail.com
-facebook: https://www.facebook.com/seungmin.shin.562329/
-instagram: https://www.instagram.com/sin.seungmin/
-linkedIn: https://www.linkedin.com/in/seungmin-shin-career/
+- email: seungminshin.career@gmail.com
+- facebook: https://www.facebook.com/seungmin.shin.562329/
+- instagram: https://www.instagram.com/sin.seungmin/
+- linkedIn: https://www.linkedin.com/in/seungmin-shin-career/
 
 <!--
 **greedy0110/greedy0110** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
